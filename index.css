@@ -1,0 +1,125 @@
+body{  
+    background: #f3dfc1;
+}
+
+a.navbar{
+    color: #f3dfc1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 25px;
+}
+
+a.navbar:hover{
+    background-color: #d7263d;
+    border-radius: 10px;
+    padding: 24px;
+}
+
+nav{
+    background-color: #160f29;
+    padding: 25px;
+    margin: -11px;
+}
+
+input{
+    margin-left: 32rem;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: #f3dfc1;
+}
+
+div.aboutcontent{
+    text-align: center;
+    margin: 0px 300px 0px 300px;
+    color: #02182b;
+}
+
+h1.heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-decoration: underline  ;
+}
+
+p.about{
+    font-size: 20px;
+}
+
+hr{
+    margin: 50px 400px 0px 400px;
+    background-color: #d7263d;
+    padding: 1px;
+}
+
+div.container{
+    height: 200px;
+    width: 300px;
+    margin: 100px;
+    background-color: #ddbea8;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;    
+}
+
+#contains{
+    display: flex;
+}
+
+button.sign{
+    border-style: solid;
+    padding: 10px;
+    margin: 8px;
+    background-color:#160f29;
+    border-color: #f3dfc1;
+    color: #f3dfc1;
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 14px;
+    text-align: center;
+}
+
+button.sign:hover{
+    background-color: #d7263d;
+    padding: 9px;
+    border-radius: 500px;
+}
+
+button.conbut{
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: #ddbea8;
+    border-style: solid;
+    border-color: #d7263d;
+    color: #d7263d;
+}
+
+button.conbut:hover{
+    padding: 9px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: #d7263d;
+    color: black;
+}
+
+nav#footer{
+    text-align: center;
+}
+
+a.foot{
+    padding: 10px;
+    text-decoration: none;
+    color: #f3dfc1;
+}
+
+a.foot:hover{
+    border-bottom-style: solid;
+    border-bottom-color: #d7263d;
+}
+i{
+    color: white;
+
+}
