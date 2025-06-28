@@ -68,8 +68,8 @@ div.container{
     display: flex;
 }
 
-button.sign{
-    border-style: solid;
+a.sign{
+    border-style: solid 5px 5px;
     padding: 10px;
     margin: 8px;
     background-color:#160f29;
@@ -81,7 +81,7 @@ button.sign{
     text-align: center;
 }
 
-button.sign:hover{
+a.sign:hover{
     background-color: #d7263d;
     padding: 9px;
     border-radius: 500px;
